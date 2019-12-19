@@ -1,0 +1,48 @@
+1. Have a desire to code
+  1.1 Recognize if you have the attention to detail required for coding
+  1.2 Understand the amount of work required
+  1.3 Be proficient with computers
+2. Research bootcamps
+  2.1 Determine the type of course you would like
+    2.1.1 Determine if you would like to do full time instead of part time classes
+    2.1.2 Determine if you would like to do in class instead of remote
+  2.2 Analyze courses offered and which path (FE or BE) would be best for your skills
+  2.3 Attend a Try Coding event
+3. Go to the Turing Website
+  3.1 Open up your web browser of choice
+  3.2 Type 'turing.io' in the address bar
+  3.3 Click the 'Apply Now' button
+4. Apply
+  4.1 Watch the embedded youtube video on how to apply
+    4.1.1 Click the red play button
+    4.1.2 Make sure your audio settings are correct in order to hear the info
+  4.2 Fill in Basic Identity and Contact Information
+  4.3 Fill in Work History
+  4.4 Complete the Logic Quiz
+5. Go to in-person interview
+  5.1 Set up time to meet with someone on the Turing Campus
+  5.2 Go to the campus
+    5.2.1 Take bus
+      5.2.1.1 Find bus schedule
+      5.2.1.2 Purchase bus ticket
+  5.3 Meet with an instructor
+    5.3.1 Introduce yourself
+  5.4 Take in person logic quiz
+  5.5 Take campus tour
+6. Accept enrollment
+  6.1 Open email stating you have been accepted to enroll
+  6.2 Esign Tuition Enrollment Agreement
+  6.3 Select program
+  6.4 Figure out financial aid
+  6.5 Talk to Darren Smith
+7. Complete Mod0
+  7.1 Complete session 1
+  7.2 Complete session 2
+  7.3 Complete session 3
+  7.4 Complete session 4
+  7.5 Complete session 5
+  7.6 Pass mod0 assessment
+    7.6.1 Do what I am currently doing :)
+  7.7 Complete session 6
+  7.8 Complete front end mod0 Capstone
+    
