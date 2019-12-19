@@ -12,3 +12,4 @@ changeFloorColor: color = 'Blue'
 addInsectProblem: passHealthInspection = false
 removeGrill: numberOfGrills = 3
 hireCook: cooks = ['Tony', 'Sara', 'Billy', 'Gene', 'Bob']
+...

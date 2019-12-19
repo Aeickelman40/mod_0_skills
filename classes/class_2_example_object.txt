@@ -1,0 +1,15 @@
+Object: Dive Bar
+
+Attributes:
+servesAlcohol: false
+typesOfWhiskey: ['Jameson', 'Jim Beam', 'Buffalo Trace', 'Johnny Walker']
+numberOfBartenders: 5
+uniformColor: 'Green'
+...
+
+Methods:
+getLiquorLicense: servesAlcohol = true
+addNewWhiskey: typesOfWhiskey = ['Jameson', 'Jim Beam', 'Buffalo Trace', 'Johnny Walker', 'Jack Daniels']
+fireBartender: numberOfBartenders = 4
+newUniforms: uniformColor = 'Brown'
+...
