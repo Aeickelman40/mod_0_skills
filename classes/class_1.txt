@@ -1,0 +1,13 @@
+Class: Kitchen
+
+Attributes:
+floorColor (string)
+passHealthInspection (boolean)
+numberOfGrills (integer)
+cooks (array)
+
+Methods:
+changeFloorColor (changes floorColor)
+addInsectProblem (changes passHealthInspection attribute from true to false)
+removeGrill (subtracts numberOfGrills by 1)
+hireCook (append a cook item to the cooks array)
