@@ -1,0 +1,13 @@
+Class: Bar
+
+Attributes:
+servesAlcohol (boolean)
+typesOfWhiskey (array)
+numberOfBartenders (integer)
+uniformColor (string)
+
+Methods:
+getLiquorLicense (changes servesAlcohol from false to true)
+addNewWhiskey (append a whiskey item to the typesOfWhiskey array)
+fireBartender (subtracts numberOfBartenders by 1)
+newUniforms (changes uniformColor)
